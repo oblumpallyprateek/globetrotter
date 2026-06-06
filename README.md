@@ -4,7 +4,6 @@ Submitted by: **Prateek Oblumpally**
 
 Estimated time spent: **6** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Application Features
 
